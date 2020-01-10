@@ -55,9 +55,6 @@ body{
 }
 
 .meme_container {
-text-align: center; // DONT USE
+	text-align: center; // MIGHT BREAK
 	position: relative;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
 }
