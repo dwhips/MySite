@@ -1,0 +1,31 @@
+body{
+	background-color: #414141;
+}
+
+.header {
+  position: relative;
+  font-family: 'Oswald', sans-serif;
+  width: 100%;
+  height: 250px;
+  font-weight: bold;
+  text-align: center;
+  background: purple;
+  color: white;
+}
+
+.header_logo {
+  margin: 0;
+  padding-top: 80px;
+  font-size: 50px;
+}
+
+.sub_header {
+	font-size: 20px;
+}
+
+img {
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
