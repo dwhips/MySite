@@ -2,14 +2,6 @@ body{
 	background-color: #414141;
 }
 
-// Meme image
-img {
-	position: relative;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
 .header {
   position: relative;
   font-family: 'Oswald', sans-serif;
@@ -60,4 +52,12 @@ img {
 .topnav a.active {
   background-color: purple;
   color: white;
+}
+
+.meme_container {
+text-align: center; // DONT USE
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
